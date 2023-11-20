@@ -17,7 +17,7 @@
   - Kategoriler altında iç içe listeler örneklenmiştir.
 
 * 📊 Tablolar:
-  - <table>, <tr>, <td>, ve <th> etiketleri kullanılarak tablo oluşturulmuştur.
+  - table, tr, td, ve th etiketleri kullanılarak tablo oluşturulmuştur.
   - Tablonun genişlik, yükseklik, sınırları, hücre iç boşluğu gibi özellikleri belirtilmiştir.
   - colspan ve rowspan ile hücre birleştirme işlemleri gösterilmiştir.
     
